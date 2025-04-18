@@ -1,0 +1,16 @@
+# macOS junk
+.DS_Store
+
+# Node modules (if used)
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.local
