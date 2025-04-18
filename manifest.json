@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "StoreTabs",
+  "version": "1.0",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "action": {
+    "default_icon": "icons/beasts-32.png",
+    "default_title": "StoreTabs",
+    "default_popup": "popup/popup.html"
+  }
+}
